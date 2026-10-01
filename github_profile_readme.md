@@ -3,7 +3,7 @@
   <!-- PROFILE PICTURE -->
   <img src="YOUR_IMAGE_URL_HERE.jpg" alt="Profile Picture" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #007acc;" />
 
-  # Hi there, I'm [Your Name] 👋
+  # Hi there, I'm Aryan Bohidar 👋
 
   **Software Developer / Tech Enthusiast**
 
